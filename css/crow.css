@@ -1,18 +1,18 @@
 
 body {
-    font-family: "Courier New", monospace; 
-    background-color: silver; 
-    text-align: center; 
-    /* font
-    background
-    centers img and text */
-  }
-  
-  /* make all images same size */
-  img {
-    max-width: 100%; 
-    height: auto;       /* maintains aspect ratio */
-    object-fit: cover;  /* images cover the specified dimensions */
-    width: 500px;       /* Set width */
-    height: 500px;      /* Set height */
-  }
+  font-family: "Arial Rounded MT Bold", Arial, sans-serif;
+  background-color: rgb(121, 195, 210); 
+  text-align: center; 
+  /* font
+  background
+  centers img and text */
+}
+
+/* make all images same size */
+img {
+  max-width: 100%; 
+  height: auto;       /* maintains aspect ratio */
+  object-fit: contain;  /* images cover the specified dimensions */
+  width: 500px;       /* Set width */
+  height: 500px;      /* Set height */
+}
