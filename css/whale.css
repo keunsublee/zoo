@@ -13,6 +13,20 @@ body {
     max-width: 100%; 
     height: auto;       /* maintains aspect ratio */
     object-fit: contain;  /* images cover the specified dimensions */
-    width: 500px;       /* Set width */
-    height: 500px;      /* Set height */
+    width: 600px;       /* Set width */
+    height: 600px;      /* Set height */
   }
+
+  .back-button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 10px;
+    color: white;
+    background-color: #52c796;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.back-button:hover {
+    background-color: #157d31;
+}
