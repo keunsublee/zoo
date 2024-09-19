@@ -1,32 +1,24 @@
 
 body {
   font-family: "Arial Rounded MT Bold", Arial, sans-serif;
-  background-color: rgb(121, 195, 210); 
+  background-color: rgb(44, 44, 44); 
   text-align: center; 
   /* font
   background
   centers img and text */
+  color : white;
 }
 
 /* make all images same size */
-img {
-  max-width: 100%; 
-  height: auto;       /* maintains aspect ratio */
-  object-fit: contain;  /* images cover the specified dimensions */
-  width: 500px;       /* Set width */
-  height: 500px;      /* Set height */
+img { 
+  width: 300px;       /* Set width */
+  height: 300px;      /* Set height */
 }
 
 .back-button {
   display: inline-block;
   padding: 10px 15px;
   font-size: 10px;
-  color: white;
-  background-color: #52c796;
-  text-decoration: none;
+  color: white;  
   border-radius: 5px;
-}
-
-.back-button:hover {
-  background-color: #157d31;
 }
