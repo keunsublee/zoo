@@ -13,19 +13,6 @@ This repository is the starter code for Assignment 1 - Zoo.
 ### Live Link
 [Website link](https://johnnylaicode.github.io/zoo-starter-code/)
 
-
-### 2. Use the information below to ***clone*** the starter codebase to your local machine
-After creating the starter codebase "assignment-1" repository on GitHub (see above), you can clone it to your local machine. The instructions on how to clone a GitHub repository are available at this [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
-
-#### 1. Create your GitHub Pages home website
-Before deploying a application to GitHub Pages, you need to first create your GitHub Pages home website `https://[your GitHub username].github.io`
-The instructions [link](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
-
-#### 2. Deploy the application to GitHub Pages
-[link](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) 
-
-
-
 Assignment 1 - Zoo 
 DUE DATE 
 • Due on Friday, 9/20, at 11:59 PM 

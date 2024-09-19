@@ -1,7 +1,7 @@
 
 body {
     font-family: "Arial Rounded MT Bold", Arial, sans-serif;
-    background-color: rgb(121, 195, 210); 
+    background-color: rgb(118, 184, 232); 
     text-align: center; 
     /* font
     background
@@ -9,12 +9,9 @@ body {
   }
   
   /* make all images same size */
-  img {
-    max-width: 100%; 
-    height: auto;       /* maintains aspect ratio */
-    object-fit: contain;  /* images cover the specified dimensions */
-    width: 600px;       /* Set width */
-    height: 600px;      /* Set height */
+  img {  
+    width: 500px;       /* Set width */
+    height: 300px;      /* Set height */
   }
 
   .back-button {
