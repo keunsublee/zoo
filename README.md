@@ -43,13 +43,7 @@ ASSIGNMENT
 In this assignment, you will create a website for your own zoo. When working in a group, each student must have a separate zoo on the website. 
 - 1 - v2.0 
 
-Requirements and Functionalities 
-1. There shall be a home page to greet visitors to the website.  
-2. The home page shall have links to the other web pages on the website.  
-3. There shall be at least 4 animals in each zoo—that is, each student must have at least 4 animals.  4. In each zoo, there shall be a web page for each animal. Each animal's web page shall have the following information: 
-• Name of the animal 
-• One or more images of the animal 
-• At least one paragraph of information on the animal 
+
 
 In addition, 
 5. Use feature branch workflow when creating the website.  
@@ -63,15 +57,4 @@ Project Document
 3. Epics, user stories, and acceptance criteria 
 4. Project schedule chart (Gantt chart) 
 
-GRADING CRITERIA 
-• Project document is complete. 
-• The visually appealing home page includes links to other web pages. 
-• At least 4 animals are in each student's zoo. 
-• Users can clearly navigate throughout the website. 
-• Thoughtful styling has been applied. 
-• HTML/CSS is formatted properly, and code is organized.  
-• Commit messages are descriptive. 
-• A new feature branch is created for each web page added to the website. 
-• Pull requests are created when merging feature branches. 
-• The website is deployed to GitHub Pages, and the website link is included in GitHub repository's README section.
-- 2 - v2.0 
+

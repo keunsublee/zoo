@@ -16,14 +16,14 @@ body {
 
   .back-button {
     display: inline-block;
-    padding: 10px 15px;
-    font-size: 10px;
-    color: white;
-    background-color: #52c796;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.back-button:hover {
-    background-color: #157d31;
-}
+    padding: 7px 15px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);  
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .back-button:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+  }
